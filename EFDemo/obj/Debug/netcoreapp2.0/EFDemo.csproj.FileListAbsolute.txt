@@ -1,0 +1,11 @@
+C:\GitHub\sl_uge8_entity_framework\EFDemo\EFDemo\bin\Debug\netcoreapp2.0\EFDemo.deps.json
+C:\GitHub\sl_uge8_entity_framework\EFDemo\EFDemo\bin\Debug\netcoreapp2.0\EFDemo.runtimeconfig.json
+C:\GitHub\sl_uge8_entity_framework\EFDemo\EFDemo\bin\Debug\netcoreapp2.0\EFDemo.runtimeconfig.dev.json
+C:\GitHub\sl_uge8_entity_framework\EFDemo\EFDemo\bin\Debug\netcoreapp2.0\EFDemo.dll
+C:\GitHub\sl_uge8_entity_framework\EFDemo\EFDemo\bin\Debug\netcoreapp2.0\EFDemo.pdb
+C:\GitHub\sl_uge8_entity_framework\EFDemo\EFDemo\obj\Debug\netcoreapp2.0\EFDemo.csprojAssemblyReference.cache
+C:\GitHub\sl_uge8_entity_framework\EFDemo\EFDemo\obj\Debug\netcoreapp2.0\EFDemo.csproj.CoreCompileInputs.cache
+C:\GitHub\sl_uge8_entity_framework\EFDemo\EFDemo\obj\Debug\netcoreapp2.0\EFDemo.AssemblyInfoInputs.cache
+C:\GitHub\sl_uge8_entity_framework\EFDemo\EFDemo\obj\Debug\netcoreapp2.0\EFDemo.AssemblyInfo.cs
+C:\GitHub\sl_uge8_entity_framework\EFDemo\EFDemo\obj\Debug\netcoreapp2.0\EFDemo.dll
+C:\GitHub\sl_uge8_entity_framework\EFDemo\EFDemo\obj\Debug\netcoreapp2.0\EFDemo.pdb

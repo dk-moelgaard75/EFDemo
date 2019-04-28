@@ -1,0 +1,44 @@
+﻿
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Login</h2>
+@if (User.Identity.IsAuthenticated)
+{
+    <div>
+        <p>Hello @User.Identity.Name</p>
+        <form method="post" asp-action="Logout">
+            <button type="submit">Log out</button>
+        </form>
+    </div>
+}
+else
+{
+    <div>
+        <p>Enter username and password to login</p>
+        <form method="post" asp-action="Login">
+            <table id="myTable" colspan="3">
+                <tr>
+                    <td><label for="name">Name</label></td>
+                    <td><input type="text" id="name" name="name" /></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td><label for="name">Password</label></td>
+                    <td><input type="text" id="password" name="password" /></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td><button type="submit">Submit</button></td>
+                </tr>
+            </table>
+        </form>
+    </div>
+}
+    <div>
+        @ViewBag.Result
+    </div>
